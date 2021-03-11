@@ -48,3 +48,7 @@ from AdvancedUsage.Revisions.GetListOfRevisions import GetListOfRevisions
 GetListOfRevisions.Run()
 from AdvancedUsage.Revisions.ApplyRevisions import ApplyRevisions
 ApplyRevisions.Run()
+from AdvancedUsage.Revisions.AcceptAllRevisions import AcceptAllRevisions
+AcceptAllRevisions.Run()
+from AdvancedUsage.Revisions.RejectAllRevisions import RejectAllRevisions
+RejectAllRevisions.Run()
