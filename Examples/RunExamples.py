@@ -48,6 +48,8 @@ PreviewDocument.Run()
 # GetChangesCoordinates.Run()
 # from AdvancedUsage.GetListOfChanges import GetListOfChanges
 # GetListOfChanges.Run()
+# from AdvancedUsage.GetListOfChangesDirect import GetListOfChangesDirect
+# GetListOfChangesDirect.Run()
 # from AdvancedUsage.Revisions.GetListOfRevisions import GetListOfRevisions
 # GetListOfRevisions.Run()
 # from AdvancedUsage.Revisions.ApplyRevisions import ApplyRevisions
